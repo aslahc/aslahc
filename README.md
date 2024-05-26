@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslahc" alt="aslahc" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack and typescript**
 
 - 📫 How to reach me **aslahcq@gmail.com**
 
