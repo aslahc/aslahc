@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack and typescript**
 
-- 📫 How to reach me **aslahcq@gmail.com**
+- 📫 How to reach me **aslahmern@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
