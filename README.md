@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="banner" />
 </p>
-<h1 align="center">Hi 👋, I'm Aslah c </h1>
+<h1 align="center">Hi 👋, I'm Aslah </h1>
 
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
