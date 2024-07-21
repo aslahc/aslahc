@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="banner" />
 </p>
-<h1 align="center">Hi 👋, I'm Aslah </h1>
+<h1 align="center">Hi 👋, I'm Aslah c </h1>
 
 <h3 align="center">A  MERN stack developer </h3>
 
@@ -13,7 +13,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif" alt="profile image" width="200" />
 
-- 🌱 I’m currently learning **FULL STACK develepment**
+- 🌱 I’m currently learning **FULL STACK develepment and TYPESCRIPT**
 
 - 📫 How to reach me **aslahmern@gmail.com**
 
