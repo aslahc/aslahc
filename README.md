@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Aslah c</h1>
 
-<h3 align="center">A Full  stack developer </h3>
+<h3 align="center">A MERN   stack developer </h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
