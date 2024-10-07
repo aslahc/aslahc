@@ -13,7 +13,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif" alt="profile image" width="200" />
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **aslahcq@gmail.com**
 
