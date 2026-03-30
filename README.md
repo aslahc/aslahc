@@ -1,34 +1,10 @@
-<p align="center">
-  <img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="banner" />
-</p>
-<h1 align="center">Hi 👋, I'm Aslah c</h1>
+Yes, this profile exists
 
-<h3 align="center">A Full  stack developer... </h3>
+- I'm Aslah,you're looking for ;) 
+- not much happening here | Fewer commits here, more coffee there..
+- Reach me at aslahcq@gmail.com
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aslahc" alt="aslahc" />
-  </a> 
-</p>
 
-<img align="right" src="https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif" alt="profile image" width="200" />
-
-- 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **aslahcq@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aslah c" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslah c" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/asllah." target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asllah." height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/aslahc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslahc" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -100,6 +76,3 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslahc&show_icons=true&locale=en&layout=compact" alt="aslahc" />
-</p>
